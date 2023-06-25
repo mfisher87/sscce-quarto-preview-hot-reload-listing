@@ -1,4 +1,4 @@
-# [SSCCE](sscce.org) of Quarto issue with hot reloading
+# [SSCCE](https://sscce.org) of Quarto issue with hot reloading
 
 When editing a page that is part of listing, `quarto preview` will hot reload.
 

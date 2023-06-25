@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  title: "sscce-quarto-preview-hot-reload-listing"
+  navbar:
+    left:
+      - href: listing/index.md
+        text: Listing 
+      - about.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
